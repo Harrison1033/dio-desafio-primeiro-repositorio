@@ -2,7 +2,7 @@ package projeto;
 //Programa para desenvolvimento ************************
 import java.util.*;
 public class Less5 {
-//programa para um programa de uma livraria em que é necessário saber quando e o que se compra e como pagar.
+//programa para uma livraria em que é necessário saber que se compra, como pagar e o valor total.
 	public static void main(String[] args) {
 		float val, soma = 0;
 		int op1, op2 = 0, op;
