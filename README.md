@@ -2,4 +2,4 @@
 Primeiro repositório para iniciar meus projetos 
  - 01ClasseParaVendaDeLivraria
  - 02TabuadaEmCaixaDeDialogo
- - 03Classe com caixa de escolha
+ - 03ClasseComCaixaDeEscolha
