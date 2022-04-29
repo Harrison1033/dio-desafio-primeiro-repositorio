@@ -1,5 +1,5 @@
 package projeto;
-//Programa para desenvolvimento ************************
+//######################Programa para desenvolvimento ************************
 import java.util.*;
 public class Less5 {
 //Classe de vendas para uma livraria 
